@@ -32,7 +32,7 @@ Our Solution
 Energy Vision for smater cities  is a smart web platform that analyzes energy consumption patterns and predicts future energy demand using AI-based forecasting models. The system helps city planners and energy providers make better decisions about energy distribution, promoting sustainability and efficient resource utilization,consumption vs production,ideas to save energy.
 
 Demo 
-Live Demo: https://ENERGY-VISION-FOR-SMATER-CITIES.vercel.app
+Live Demo: https://energyvision-wine.vercel.app?_vercel_share=8KV85wQNysDrvtxIAPSE2UpgoaLP6GL2
 
 Screenshots
 ![WhatsApp Image 2026-03-12 at 2 00 52 AM](https://github.com/user-attachments/assets/4225a074-fea2-4ce4-a871-f690f7fbbaef)
